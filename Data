@@ -1,4 +1,4 @@
-Data set used are COCO (Common Objects in Context), Pascal VOC (Visual Object Classes), KITTI.
+Data set used are COCO (Common Objects in Context).
 
 [net]
 # Testing
